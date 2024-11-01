@@ -21,3 +21,21 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+akhdntaufiq:
+  name: Akhdan Taufiq Syofyan
+  title: os enjoyers
+  url: https://github.com/akhdntaufiq
+  image_url: https://github.com/akhdntaufiq.png
+  page: true
+  socials:
+    github: akhdntaufiq
+
+ryuun1corn:
+  name: Yudayana Arif Prasojo
+  title: os enjoyers
+  url: https://github.com/ryuun1corn
+  image_url: https://github.com/ryuu1corn.png
+  page: true
+  socials:
+    github: ryuun1corn
